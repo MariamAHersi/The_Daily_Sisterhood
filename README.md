@@ -1,4 +1,4 @@
-# The_Daily_Sisterhood
+# The Daily Sisterhood
 *A digital publication exploring politics, society, culture, literature, and film.*
 
 ## About
