@@ -8,7 +8,7 @@ The Daily Sisterhood is an independent online publication founded by sisters wit
 Inspired by the timeless style of traditional newspapers and literary journals, The Lantern publishes original articles on current affairs, politics, social issues, culture, books, films, and television. Our aim is to create a space where ideas are explored with curiosity, nuance, and respect.
 
 Rather than chasing headlines, we focus on thoughtful analysis, well-researched opinion pieces, and in-depth reviews that encourage readers to think critically and engage with the world around them.
-
+ 
 ## Features
 
 - 📰 Original articles on politics and current affairs
